@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\github\\Computer-Graphics-Coursework\\Builds\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33B768F9-3022-34F0-A7EC-DCAD89A24CB7}|Computer_Graphics_Coursework.vcxproj|D:\\github\\Computer-Graphics-Coursework\\source\\fragmentShader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B768F9-3022-34F0-A7EC-DCAD89A24CB7}|Computer_Graphics_Coursework.vcxproj|D:\\github\\Computer-Graphics-Coursework\\source\\coursework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B768F9-3022-34F0-A7EC-DCAD89A24CB7}|Computer_Graphics_Coursework.vcxproj|D:\\github\\Computer-Graphics-Coursework\\common\\camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B768F9-3022-34F0-A7EC-DCAD89A24CB7}|Computer_Graphics_Coursework.vcxproj|D:\\github\\Computer-Graphics-Coursework\\common\\camera.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B768F9-3022-34F0-A7EC-DCAD89A24CB7}|Computer_Graphics_Coursework.vcxproj|D:\\github\\Computer-Graphics-Coursework\\common\\maths.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B768F9-3022-34F0-A7EC-DCAD89A24CB7}|Computer_Graphics_Coursework.vcxproj|D:\\github\\Computer-Graphics-Coursework\\common\\maths.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B768F9-3022-34F0-A7EC-DCAD89A24CB7}|Computer_Graphics_Coursework.vcxproj|D:\\github\\Computer-Graphics-Coursework\\common\\model.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B768F9-3022-34F0-A7EC-DCAD89A24CB7}|Computer_Graphics_Coursework.vcxproj|D:\\github\\Computer-Graphics-Coursework\\source\\vertexShader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B768F9-3022-34F0-A7EC-DCAD89A24CB7}|Computer_Graphics_Coursework.vcxproj|D:\\github\\Computer-Graphics-Coursework\\common\\light.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B768F9-3022-34F0-A7EC-DCAD89A24CB7}|Computer_Graphics_Coursework.vcxproj|D:\\github\\Computer-Graphics-Coursework\\common\\model.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "maths.cpp",
+              "DocumentMoniker": "D:\\github\\Computer-Graphics-Coursework\\common\\maths.cpp",
+              "RelativeDocumentMoniker": "..\\common\\maths.cpp",
+              "ToolTip": "D:\\github\\Computer-Graphics-Coursework\\common\\maths.cpp",
+              "RelativeToolTip": "..\\common\\maths.cpp",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAmwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T14:36:54.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "camera.cpp",
+              "DocumentMoniker": "D:\\github\\Computer-Graphics-Coursework\\common\\camera.cpp",
+              "RelativeDocumentMoniker": "..\\common\\camera.cpp",
+              "ToolTip": "D:\\github\\Computer-Graphics-Coursework\\common\\camera.cpp",
+              "RelativeToolTip": "..\\common\\camera.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T10:37:26.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "coursework.cpp",
+              "DocumentMoniker": "D:\\github\\Computer-Graphics-Coursework\\source\\coursework.cpp",
+              "RelativeDocumentMoniker": "..\\source\\coursework.cpp",
+              "ToolTip": "D:\\github\\Computer-Graphics-Coursework\\source\\coursework.cpp",
+              "RelativeToolTip": "..\\source\\coursework.cpp",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAAAMgAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-03T12:52:27.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "model.hpp",
+              "DocumentMoniker": "D:\\github\\Computer-Graphics-Coursework\\common\\model.hpp",
+              "RelativeDocumentMoniker": "..\\common\\model.hpp",
+              "ToolTip": "D:\\github\\Computer-Graphics-Coursework\\common\\model.hpp",
+              "RelativeToolTip": "..\\common\\model.hpp",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-03T14:35:52.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fragmentShader.glsl",
+              "DocumentMoniker": "D:\\github\\Computer-Graphics-Coursework\\source\\fragmentShader.glsl",
+              "RelativeDocumentMoniker": "..\\source\\fragmentShader.glsl",
+              "ToolTip": "D:\\github\\Computer-Graphics-Coursework\\source\\fragmentShader.glsl",
+              "RelativeToolTip": "..\\source\\fragmentShader.glsl",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-11T12:31:41.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "camera.hpp",
+              "DocumentMoniker": "D:\\github\\Computer-Graphics-Coursework\\common\\camera.hpp",
+              "RelativeDocumentMoniker": "..\\common\\camera.hpp",
+              "ToolTip": "D:\\github\\Computer-Graphics-Coursework\\common\\camera.hpp",
+              "RelativeToolTip": "..\\common\\camera.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-07T10:42:39.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "maths.hpp",
+              "DocumentMoniker": "D:\\github\\Computer-Graphics-Coursework\\common\\maths.hpp",
+              "RelativeDocumentMoniker": "..\\common\\maths.hpp",
+              "ToolTip": "D:\\github\\Computer-Graphics-Coursework\\common\\maths.hpp",
+              "RelativeToolTip": "..\\common\\maths.hpp",
+              "ViewState": "AgIAACYAAAAAAAAAAAAmwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-13T14:37:27.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "vertexShader.glsl",
+              "DocumentMoniker": "D:\\github\\Computer-Graphics-Coursework\\source\\vertexShader.glsl",
+              "RelativeDocumentMoniker": "..\\source\\vertexShader.glsl",
+              "ToolTip": "D:\\github\\Computer-Graphics-Coursework\\source\\vertexShader.glsl",
+              "RelativeToolTip": "..\\source\\vertexShader.glsl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-08T12:45:44.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "light.cpp",
+              "DocumentMoniker": "D:\\github\\Computer-Graphics-Coursework\\common\\light.cpp",
+              "RelativeDocumentMoniker": "..\\common\\light.cpp",
+              "ToolTip": "D:\\github\\Computer-Graphics-Coursework\\common\\light.cpp",
+              "RelativeToolTip": "..\\common\\light.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAjwDoAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T12:16:02.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "model.cpp",
+              "DocumentMoniker": "D:\\github\\Computer-Graphics-Coursework\\common\\model.cpp",
+              "RelativeDocumentMoniker": "..\\common\\model.cpp",
+              "ToolTip": "D:\\github\\Computer-Graphics-Coursework\\common\\model.cpp",
+              "RelativeToolTip": "..\\common\\model.cpp",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAAwPwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T13:43:59.811Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

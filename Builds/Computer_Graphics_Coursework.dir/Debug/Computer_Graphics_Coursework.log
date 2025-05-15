@@ -1,0 +1,3 @@
+﻿  coursework.cpp
+D:\github\Computer-Graphics-Coursework\source\coursework.cpp(125,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Computer_Graphics_Coursework.vcxproj -> D:\github\Computer-Graphics-Coursework\Builds\Debug\Computer_Graphics_Coursework.exe

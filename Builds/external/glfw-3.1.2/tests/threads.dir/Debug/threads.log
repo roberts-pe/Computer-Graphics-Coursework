@@ -1,0 +1,4 @@
+﻿  Building Custom Rule D:/github/Computer-Graphics-Coursework/external/glfw-3.1.2/tests/CMakeLists.txt
+  threads.c
+  tinycthread.c
+  threads.vcxproj -> D:\github\Computer-Graphics-Coursework\Builds\external\glfw-3.1.2\tests\Debug\threads.exe

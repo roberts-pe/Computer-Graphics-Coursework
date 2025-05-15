@@ -22,6 +22,8 @@ public:
     std::vector<glm::vec2> uvs;
     std::vector<glm::vec3> normals;
     std::vector<Texture>   textures;
+    std::vector<glm::vec3> tangents;
+    std::vector<glm::vec3> bitangents;
     unsigned int textureID;
     float ka, kd, ks, Ns;
     
@@ -44,6 +46,8 @@ private:
     unsigned int vertexBuffer;
     unsigned int uvBuffer;
     unsigned int normalBuffer;
+    unsigned int tangentBuffer;
+    unsigned int bitangentBuffer;
     
     // Load .obj file method
     bool loadObj(const char *path,
@@ -55,5 +59,5 @@ private:
     void setupBuffers();
     
     // Load texture
-    unsigned int loadTexture(const char *path);
+    unsigned int loadTexture(const char* path, const std::string& type);
 };
